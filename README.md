@@ -10,6 +10,8 @@ Backend-oriented **Software Developer** with experience in *.NET, Kotlin* and fr
 
 ## 🛠 Tech Stack
 
+![Alexis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Santana-Vega&layout=default)
+
 ### **Languages**
 - **C#**
 - **Kotlin**
