@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexis!
+<h1 align="center">👋 Hi, I'm Alexis!</h1>
 
 Backend-oriented **Software Developer** with experience in *.NET, Kotlin* and frontend development using *Vue.js*. Currently interested in backend development, I am interested in understanding each process to know how each business works and empathize with the user.
 
