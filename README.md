@@ -42,5 +42,5 @@ Backend-oriented **Software Developer** with experience in *.NET, Kotlin* and fr
 - **Linux**
 - **Docker**
 - **Node.js**
-- **Vercel**
+- ![Static Badge](https://img.shields.io/badge/-Transparent?style=for-the-badge&logo=vercel&logoColor=black&color=rgba(0%2C%200%2C%200%2C%200)) **Vercel**
 - **Render**
