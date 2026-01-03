@@ -9,9 +9,6 @@ Backend-oriented **Software Developer** with experience in *.NET, Kotlin* and fr
 - 🚀 Currently learning more about **Spring Boot** and **cloud environments**
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Santana-Vega&layout=compact" alt="Alexis's Top Langs" />
-</p>
 
 ### **Languages**
 - **C#**
